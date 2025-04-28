@@ -95,5 +95,3 @@ int main() {
     
     return 0;
 }
-
-Add animal clinic management using static variables and enums
