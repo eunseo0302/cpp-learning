@@ -64,5 +64,3 @@ int main() {
      
     return 0;
 }
-
-Add weapon selection system using class inheritance and dynamic memory
