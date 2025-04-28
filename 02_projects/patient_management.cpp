@@ -109,5 +109,3 @@ int main() {
     
     return 0;
 }
-
-Add patient management system using class inheritance and polymorphism
