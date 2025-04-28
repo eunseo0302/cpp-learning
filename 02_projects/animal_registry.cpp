@@ -96,5 +96,3 @@ int main() {
     
     return 0;
 }
-
-Add animal registry program with abstract class and polymorphism
