@@ -28,4 +28,3 @@ int main() {
     return 0;
 }
 
-Add problem solving: count capital letters in string
