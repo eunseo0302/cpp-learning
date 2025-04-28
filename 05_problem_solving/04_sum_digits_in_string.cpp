@@ -23,4 +23,3 @@ int main() {
     return 0;
 }
 
-Add problem solving: sum digits in a string
