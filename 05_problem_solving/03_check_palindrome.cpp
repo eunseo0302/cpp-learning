@@ -37,5 +37,3 @@ int main() {
     
     return 0;
 }
-
-Add problem solving: check if a string is palindrome
