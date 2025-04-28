@@ -53,4 +53,3 @@ public:
     }
 };
 
-Add extended MyArray template class with contains, replace, and erase methods
