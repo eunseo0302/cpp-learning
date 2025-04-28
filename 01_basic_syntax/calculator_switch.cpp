@@ -58,5 +58,3 @@ char getChar() {
     scanf(" %c", &p);
     return p;
 }
-
-Add basic calculator using functions and switch statement
