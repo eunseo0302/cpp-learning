@@ -42,5 +42,3 @@ int main() {
     
     return 0;
 }
-
-Add STL practice with vector, map, and sort algorithm
