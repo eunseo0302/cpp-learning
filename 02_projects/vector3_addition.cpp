@@ -33,5 +33,3 @@ int main() {
     result.printInfo();
     return 0;
 }
-
-Add Vector3 class with operator overloading for addition
