@@ -67,5 +67,3 @@ int main() {
     
     return 0;
 }
-
-Add book management program using dynamic memory and classes
