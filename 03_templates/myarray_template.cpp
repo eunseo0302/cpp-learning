@@ -59,5 +59,3 @@ int main() {
     
     return 0;
 }
-
-Add MyArray template class with dynamic resizing
