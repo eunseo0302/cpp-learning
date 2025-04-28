@@ -82,5 +82,3 @@ char getChar(){
     scanf(" %c", &a);
     return a;
 }
-
-Add extended calculator with pow, modulo, and random operations
