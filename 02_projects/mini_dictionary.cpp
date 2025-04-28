@@ -50,5 +50,3 @@ int main() {
     
     return 0;
 }
-
-Add mini dictionary project using std::map
