@@ -28,5 +28,3 @@ int main() {
     
     return 0;
 }
-
-Add reverse string program using manual null-terminator search
