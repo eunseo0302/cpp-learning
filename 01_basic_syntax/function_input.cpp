@@ -33,5 +33,3 @@ int main() {
 
     return 0;
 }
-
-Add function-based input printing code
