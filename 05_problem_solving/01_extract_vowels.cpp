@@ -24,5 +24,3 @@ int main() {
     
     return 0;
 }
-
-Add problem solving: extract vowels from string
