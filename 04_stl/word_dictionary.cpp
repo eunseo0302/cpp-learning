@@ -50,5 +50,3 @@ int main() {
     
     return 0;
 }
-
-Add word dictionary program using STL map
