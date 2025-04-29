@@ -18,6 +18,7 @@ Small C++ projects implementing object-oriented programming concepts like inheri
 - `animal_clinic.cpp`: Manages patient records using class and pointer basics.  
 - `book_management.cpp`: A simple system for managing book information with file I/O.  
 - `emergency_simulator.cpp`: Simulates an emergency room queue using `priority_queue` and a custom comparator.
+- `student_manager.cpp`: A simple student registration system using `struct` and `vector`. Features include duplicate ID checking, full list display, ID-based search, and average score calculation.
 
 ### 03_templates  
 Template-based programming exercises including dynamic arrays with resizing, and template class expansion using type-generic designs.
