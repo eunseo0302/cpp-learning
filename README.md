@@ -32,7 +32,8 @@ Practice with STL containers such as `vector`, `map`, `set`, `priority_queue`, a
 
 **Example files:**
 - `member_management.cpp`: Manages user data using `map`.  
-- `word_dictionary.cpp`: A simple word-frequency counter using `unordered_map`.  
+- `word_dictionary.cpp`: A simple word-frequency counter using `unordered_map`.
+- `member_manager.cpp`: A simple C++ project that demonstrates member management using a class, vector, and menu-based interaction. Includes duplicate handling, filtering, and basic statistics. Written in English for readability and GitHub documentation.
 
 ### 05_problem_solving  
 A collection of small algorithmic problems to reinforce logic, control flow, and STL usage.
